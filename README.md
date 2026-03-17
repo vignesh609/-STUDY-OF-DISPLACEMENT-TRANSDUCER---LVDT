@@ -1,5 +1,9 @@
 # -STUDY-OF-DISPLACEMENT-TRANSDUCER---LVDT
 
+Name: Vignesh P
+
+Reg no: 212222210027
+
 AIM
 To study the operation of LVDT- Linear Variable Differential Transformer
 OBJECTIVE:
@@ -31,5 +35,15 @@ voltages are noted down.
 <img width="575" height="457" alt="image" src="https://github.com/user-attachments/assets/99a3dafe-99f5-4b37-ba07-2c82b84cb5bd" />
 
 RESULT:
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/2318e9a6-2882-4e1e-9d25-f66649fa2d5d" />
+
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/179b58ad-486c-4fad-972c-c847d472c3ff" />
+
+
+Thus the operation of LVDT was studied and the displacement was measured.
+](https://github.com/sushil-12-cmd/CHARACTERISTICS-OF-PN-JUNCTION-DIODE)
+
 
 
